@@ -9,6 +9,4 @@ The password is ensured to have at least one character from each selected charac
 The password is staggered to ensure randomness so it is a safe password.
 The generated password is printed to the console.
 
-
-
 To use the tool, just save it to a file (e.g. random_password_generator.py) and run it through the command line:
