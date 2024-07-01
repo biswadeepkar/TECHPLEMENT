@@ -1,4 +1,4 @@
-This is a Python program for Developing a Random Password Generator Tool.
+This is a Python program for Developing a  Command Line tool for generating random passwords with customizable lenght and complexity.
 The user can give their own Length,can choose uppercase Letter,Lowercase Letter,Special Characters Etc.
 This Project is Useful as the tool will make a secured passworde that are secure and Random.
 This Application is unyielding to Brute Force Attacks and Guessing also.
