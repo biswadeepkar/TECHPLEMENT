@@ -1,7 +1,7 @@
 
 Working of the Tool:
 
-This code generates a random password of customizable length with alternative to include or exclude digits and special characters.
+This code generates a random password tool of customizable length with alternative to include or exclude digits and special characters.
 
 The user is induced to enter the desired password length.
 
